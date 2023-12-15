@@ -1,0 +1,6 @@
+[submodule "frontend/Birds_frontend"]
+	path = frontend/Birds_frontend
+	url = https://github.com/Modris/birds_frontend
+[submodule "backend/Birds"]
+	path = backend/Birds_backend
+	url = https://github.com/Modris/birds_backend
