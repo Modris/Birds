@@ -13,7 +13,7 @@
   
 # Small Demo link: Click image to be redirected to youtube.
 
-[![Video Demo](/project_images/video_img.png)](https://www.youtube.com/watch?v=31vUc6IfVQg)
+[![Video Demo](/project_images/video_thumbnail.png)](https://www.youtube.com/watch?v=Lb6HCQEuklg)
 
 
 # The tech stack. Main takeaways:
